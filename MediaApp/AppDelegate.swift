@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MediaApp
 //
-//  Created by Дмитрий Снигирев on 06.12.2023.
+//  Created by Дмитрий Снигирев on 05.12.2023.
 //
 
 import UIKit
